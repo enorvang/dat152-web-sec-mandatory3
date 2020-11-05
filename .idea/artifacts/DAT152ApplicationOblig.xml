@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="DAT152ApplicationOblig">
+    <output-path>$PROJECT_DIR$/out/artifacts/DAT152ApplicationOblig</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="DAT152ApplicationOblig/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="DAT152ApplicationOblig" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="lib" />
+          <element id="library" level="project" name="org.apache.commons:commons-text:1.9" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
